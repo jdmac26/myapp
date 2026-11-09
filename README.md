@@ -15,7 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-‘’’
 #!/usr/bin/env python3
 """
 Extract a PDF's clickable table of contents into XML.
@@ -229,4 +228,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-‘’’
+
